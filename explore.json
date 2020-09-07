@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Together Festival",
+    "image": "/img/001.jpg",
+    "description": "Together Festival, an ultra hip music experience that aims to put Bangkok on the map as home of Southeast Asia’s most anticipated dance.",
+    "action": {
+      "name": "Book",
+      "link": "?event_id=001",
+      "tickets": [
+        {
+          "name": "Early Bird",
+          "price": 20000,
+          "currency": "MMK"
+        },
+        {
+          "name": "Regular",
+          "price": 35000,
+          "currency": "MMK"
+        },
+        {
+          "name": "VIP",
+          "price": 75000,
+          "currency": "MMK"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Ultra Music Festival",
+    "image": "/img/002.jpg",
+    "description": "The world's premier electronic music festival, boasting elite DJs and unparalleled production located in the beautiful city of Miami.",
+    "action": {
+      "name": "Book",
+      "link": "?event_id=002",
+      "tickets": [
+          {
+            "name": "Early Bird",
+            "price": 20000,
+            "currency": "MMK"
+          },
+          {
+            "name": "Regular",
+            "price": 35000,
+            "currency": "MMK"
+          },
+          {
+            "name": "VIP",
+            "price": 75000,
+            "currency": "MMK"
+          }
+        ]
+    }
+  },
+  {
+      "name": "Waterzonic",
+      "image": "/img/003.jpg",
+      "description": "It’s that time again!  Prepare yourself for Waterzonic Bangkok 2019! Coming 4-5 October 2019 to Bangkok, Thailand!",
+      "action": {
+        "name": "Book",
+        "link": "?event_id=003",
+        "tickets": [
+            {
+              "name": "Early Bird",
+              "price": 20000,
+              "currency": "MMK"
+            },
+            {
+              "name": "Regular",
+              "price": 35000,
+              "currency": "MMK"
+            },
+            {
+              "name": "VIP",
+              "price": 75000,
+              "currency": "MMK"
+            }
+          ]
+      }
+  }
+]

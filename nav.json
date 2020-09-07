@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Homepage",
+    "link": "/"
+  },
+  {
+    "name": "About Us",
+    "link": "#about"
+  }
+]
